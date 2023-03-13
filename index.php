@@ -103,7 +103,7 @@
         <div class="clearfix"></div>
         <footer>
             <h1>footer</h1>
-            <p>&copy;2023 Zalaga.com All right</p>
+            <p>&copy;2023 RealtimeChat.com All right</p>
         </footer>
     </div>
 </body>
