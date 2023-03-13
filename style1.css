@@ -32,7 +32,7 @@ nav{
     margin-top: 0px;
     text-align: center;
     width: 20%;
-    height: 5000px;
+    height: 500px;
     background:rgb(84, 208, 49);
     float: left;
 }
@@ -44,7 +44,7 @@ section
     /*text-align: center;*/
     text-align: left;
     width: 70%;
-    height: 5000px;
+    height: 500px;
     background: rgb(99, 207, 99);
     float: left;
     font-size: 14px;
@@ -55,9 +55,9 @@ aside
     margin-right: 0px;
     margin-top: 0px;
     width: 10%;
-    height: 5000px;
+    height: 500px;
     text-align: center;
-    background: green;
+    background: rgb(63, 173, 63);
     float: left;
 }
 footer
